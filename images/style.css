@@ -1,0 +1,40 @@
+/* Images */
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url('https://t3.ftcdn.net/jpg/02/92/94/96/360_F_292949635_5UP3OAWWvhPq9QtceQwrXp1GQpTkxwss.jpg');
+	color: black;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	line-height: 1.4;
+	font-size: 16px;
+	margin: 0.25em;
+}
+
+img {
+	max-width: 100%;
+	border-radius: 20px;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	letter-spacing: 20px;
+	background-color: black;
+}
+
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.item {
+	width: 33.33%;
+	padding: 0.5em;
+	border: 2px solid white;
+	border-radius: 20px
+}
+
