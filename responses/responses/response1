@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<head>
+	<title>Responses | Humor of the Internet</title>
+	<link rel="stylesheet" href="../style.css">
+	<meta name="viewport" content="width=device-width">
+    <style>
+    
+    .grid {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.item {
+	width: 50%;
+	padding: 0.5em;
+	border: 2px solid white;
+	border-radius: 20px;
+    text-align: center;
+}
+    
+    </style>
+        <style>
+    .button {
+  background-color: #5400ff;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}</style>
+</head>
+<body>
+    <div class="text-pop-up-top">
+			<h1 style="margin-top:5%;font-size:2.5em;background-color:white">Humor of the Internet</h1>
+		</div>
+	<main>
+<h2 style="font-family:monospace;color:#5400ff;text-align:center;background-color:white;letter-spacing:5px;margin-left:20%;margin-right:20%;">    “You have to have a sense of humor to live with the web,”-Lucas
+                </h2>
+		<div class="grid">
+            <div class="item">
+                
+            
+               <img  src="../img/stonks.jpg" alt="stonks">
+			</div>
+            
+            
+			<div class="item" style="background-color:#16202a;">
+                
+				<img style="padding-top:11%" src="https://hugelolcdn.com/i/681868.png" alt="curby">
+			</div> <!-- /end item -->
+
+			<div class="item">
+                
+            
+               <img  src="https://images-ext-1.discordapp.net/external/C8OW0TfsGY3SA2ZFllwClh-5pxXr9kDQmklR4CtAeKg/%3Fwidth%3D960%26crop%3Dsmart%26auto%3Dwebp%26s%3D0b6b06fa77a81313e6e660a32e6ef6915ce28c29/https/preview.redd.it/3nr7zmkkmpg41.jpg?width=723&height=670" alt="riches">
+			</div><!-- /end item -->
+            <div class="item">
+                
+            
+               <img style="padding-top:17%" src="https://images-ext-1.discordapp.net/external/0XNDLHL-y_RjU7mVLkW5imXTINdHDAXKMRymOKKEJPc/https/i.kym-cdn.com/entries/icons/facebook/000/035/644/juancover.jpg?width=1191&height=670" alt="juan">
+			</div>
+            <div class="item">
+                
+            
+               <img  src="https://images-ext-2.discordapp.net/external/bioNcmR1qFtroIrKPqDaXaewSAXk96WdgS_SH_Riq8g/%3Fq%3Dtbn%3AANd9GcTXJ-a7P71vRX5FLI97U8JdrT7bn0J7pfiN_g%26usqp%3DCAU/https/encrypted-tbn0.gstatic.com/images" alt="steveharveymeme">
+			</div>
+            <div class="item">
+               <img  src="https://images-ext-2.discordapp.net/external/rFcY8jArCEuM-xvFrBH7dv5Cc5FNmUIIzIUhO-cNij0/%3Fq%3Dtbn%3AANd9GcSk-LZsGLTc3gSdRGKJgFKK-A9jfOYyf5Q2AA%26usqp%3DCAU/https/encrypted-tbn0.gstatic.com/images" alt="lemon">
+			</div>
+
+
+		</div> 
+                    <div style="padding-top:20px">
+                
+                <a href="../index.html" class="button">Back to home</a>
+				
+			</div><!-- /end grid -->
+	</main>
+</body>
